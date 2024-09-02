@@ -1,7 +1,6 @@
 // server side
 const express = require("express");
 // express server
-
 const app = express();
 //  nodejs
 const server = require("http").Server(app);
